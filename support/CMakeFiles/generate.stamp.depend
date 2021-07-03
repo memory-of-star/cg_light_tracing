@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/FindOpenGL.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/FindPackageMessage.cmake
+D:/OptiX SDK 7.2.0/SDK/support/CMakeLists.txt

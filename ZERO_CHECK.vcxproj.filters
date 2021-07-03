@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\OptiX SDK 7.2.0\SDK\CMakeFiles\ac99e0d01f1f883697c179a5d41422fc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FA73DE6F-77AE-3B64-B36A-63820355085F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

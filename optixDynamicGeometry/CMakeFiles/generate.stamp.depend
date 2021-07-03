@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+D:/OptiX SDK 7.2.0/SDK/CMake/FindCUDA/run_nvcc.cmake
+D:/OptiX SDK 7.2.0/SDK/optixDynamicGeometry/CMakeFiles/optixDynamicGeometry.dir/optixDynamicGeometry_generated_vertices.cu.obj.depend
+D:/OptiX SDK 7.2.0/SDK/optixDynamicGeometry/CMakeLists.txt

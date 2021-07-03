@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\OptiX SDK 7.2.0\SDK\optixMultiGPU\optixMultiGPU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\OptiX SDK 7.2.0\SDK\cuda\helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\OptiX SDK 7.2.0\SDK\optixMultiGPU\optixMultiGPU.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\OptiX SDK 7.2.0\SDK\optixMultiGPU\optixMultiGPU_kernels.cu">
+      <Filter>CUDA Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\OptiX SDK 7.2.0\SDK\optixMultiGPU\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\OptiX SDK 7.2.0\SDK\optixMultiGPU\optixMultiGPU.cu">
+      <Filter>CUDA Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="D:\OptiX SDK 7.2.0\SDK\lib\ptx\$(Configuration)\optixMultiGPU_generated_optixMultiGPU_kernels.cu.obj">
+      <Filter>Object Files</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CUDA Files">
+      <UniqueIdentifier>{BE0D869A-33FE-3252-9A13-EDF1A3AA7C0F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E4883302-5C7F-3D10-8578-D134D1A2C3A7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Files">
+      <UniqueIdentifier>{6B2283E9-5659-36A3-86F7-25F76A5A5B43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7EBD2C2F-1564-34DF-8D8E-D476BADC64EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

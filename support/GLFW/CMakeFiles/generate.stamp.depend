@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/CMakePackageConfigHelpers.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/CheckCSourceCompiles.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/CheckIncludeFile.c.in
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/CheckIncludeFile.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/CheckLibraryExists.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/FindPackageMessage.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/FindThreads.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/Internal/CheckSourceCompiles.cmake
+C:/Users/cyq10/Downloads/cmake-3.21.0-rc2-windows-x86_64/cmake-3.21.0-rc2-windows-x86_64/share/cmake-3.21/Modules/WriteBasicConfigVersionFile.cmake
+D:/OptiX SDK 7.2.0/SDK/support/GLFW/CMake/modules/FindVulkan.cmake
+D:/OptiX SDK 7.2.0/SDK/support/GLFW/CMakeLists.txt
+D:/OptiX SDK 7.2.0/SDK/support/GLFW/src/glfw3.pc.in
+D:/OptiX SDK 7.2.0/SDK/support/GLFW/src/glfw3Config.cmake.in
+D:/OptiX SDK 7.2.0/SDK/support/GLFW/src/glfw_config.h.in

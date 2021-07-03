@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+D:/OptiX SDK 7.2.0/SDK/CMake/FindCUDA/run_nvcc.cmake
+D:/OptiX SDK 7.2.0/SDK/optixNVLink/CMakeFiles/optixNVLink.dir/optixNVLink_generated_optixNVLink_kernels.cu.obj.depend
+D:/OptiX SDK 7.2.0/SDK/optixNVLink/CMakeLists.txt
+D:/OptiX SDK 7.2.0/SDK/optixNVLink/nvml_configure.h.in
